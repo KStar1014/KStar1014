@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Kevin</h1>
+<h1 align="center">Hi , I'm KStar</h1>
 <h3 align="centre">I'm a FullStack Developer with experience in building web applications using React, Next.js, and TypeScript. I love creating user-friendly, responsive websites with modern tools like Tailwind CSS and Vite.
 
 Currently, I'm looking for new opportunities to work on exciting projects and continue mastering new technologies, including React Native and web3. Feel free to check out my projects here!</h3>
