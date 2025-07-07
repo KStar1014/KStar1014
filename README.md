@@ -13,7 +13,7 @@ Currently, I'm looking for new opportunities to work on exciting projects and co
 
 - ⚡ Excited and Open for Thrilling Freelancing Opportunities! ⚡
 
-- 💬 Ask me about **FullStack and related Blockchain Technologies (Especially BITTENSOR) **
+- 💬 Ask me about **FullStack, AI and related Blockchain Technologies (Especially BITTENSOR) **
 
 
 
