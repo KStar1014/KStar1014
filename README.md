@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm KStar</h1>
-<h3 align="centre">I'm a FullStack Developer with experience in building web applications using React, Next.js, and TypeScript. I love creating user-friendly, responsive websites with modern tools like Tailwind CSS and Vite.
+<h3 align="centre">I'm a FullStack Developer with experience in building web applications using React, Next.js, SvelteKit, Vue.js, TypeScript, Node.js, Supabase and PHP. I am also familiar with AI integration including AI chatbot, AI agent, OpenAI API and Custom LangChain. I love creating user-friendly, responsive websites with modern tools like Tailwind CSS and Vite.
 
-Currently, I'm looking for new opportunities to work on exciting projects and continue mastering new technologies, including React Native and web3. Feel free to check out my projects here!</h3>
+Currently, I'm looking for new opportunities to work on exciting projects and continue mastering new technologies, including React Native and Supabase. Feel free to check out my projects here!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrblackghostt&label=Profile%20views&color=0e75b6&style=flat" alt="mrblackghostt" /> </p>
 
