@@ -1,19 +1,16 @@
 <h1 align="center">Hi , I'm an Eleven</h1>
 <h3 align="centre">I'm a FullStack Developer with experience in building web applications using React, Next.js, SvelteKit, Vue.js, TypeScript, Node.js, Supabase and PHP. I am also familiar with AI integration including AI chatbot, AI agent, OpenAI API and Custom LangChain. I love creating user-friendly, responsive websites with modern tools like Tailwind CSS and Vite.
-
-Currently, I'm looking for new opportunities to work on exciting projects and continue mastering new technologies, including React Native and Supabase. Feel free to check out my projects here!</h3>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrblackghostt&label=Profile%20views&color=0e75b6&style=flat" alt="mrblackghostt" /> </p>
 
 
 
-- 🔭 I’m open to work
-
 - 🌱 I’m currently growing to become a strong contender
 
-- ⚡ Excited and Open for Thrilling Freelancing Opportunities! ⚡
+- ⚡ Excited for Thrilling Tennis Opportunities!
 
-- 💬 Ask me about **FullStack, AI and related Blockchain Technologies (Especially BITTENSOR) **
+- 💬 Ask me about **FullStack, AI and Blockchain Technologies (Solana, Haskell, Nix, BITTENSOR) **
 
 
 
